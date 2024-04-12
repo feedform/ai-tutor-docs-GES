@@ -429,6 +429,42 @@ Afbeelding 7: D
 – Rangschik de afbeeldingen in chronologische volgorde. Noteer de nummers in de juiste volgorde in dit raster.
 De oplossing: 3, 5, 4, 2, 7, 1, 6
 
+#### pagina 20 en 21 
+Op deze pagina's krijgen de leerlingen opdrachten op wat ze in het hoofdstuk leerden.
+##### Opdracht 2: Situeer historische gebeurtenissen in de tijd.
+antwoordlijn: betekent dat de leerlingen dat dat antwoord na de dubbelepunt hebben genoteerd.
+Opdracht 2a: 
+- Een periode van honderd jaar noemen we (antwoordlijn: eeuw)
+- Een periode van duizend jaar noemen we (antwoordlijn: millennium)
+Opdracht 2b: Om de tijd voor te stellen gebruiken we een tijdbalk.
+- Welk is het eerste jaar dat op de bovenste tijdbalk vermeld is? (antwoordlijn: 2005)
+- Van welke begin- tot welke einddatum (dag-maand-jaar) loopt dat jaar precies? van (antwoordlijn: 1 januari 2005) tot (antwoordlijn: 31 december 2005)
+- Plaats op de bovenste tijdbalk zo precies mogelijk jouw geboortedatum en minstens vier belangrijke gebeurtenissen uit jouw leven.
+De geschiedenis duurt natuurlijk veel langer dan jouw leven. Daarvoor hebben we een tijdbalk nodig die vele eeuwen beslaat (zie onderaan deze pagina’s).
+- In welk jaar leven we nu?
+- In welk jaar begint onze jaartelling?  antwoordlijn: 1
+- Naar welke gebeurtenis verwijst dit jaartal? antwoordlijn: geboorte van Christus
+- Van welke begin- tot welke einddatum (dag-maand-jaar) loopt het eerste jaar van de christelijke jaartelling precies? van (antwoordlijn: 1 januari 1) tot (antwoordlijn: 31 december 1)
 
+Opdracht 2c: Noteer hieronder telkens de begin- en einddatum van de opgegeven eeuwen. Plaats ze met de gegeven kleur op de tijdbalk onderaan.
+Tabel: de eerste rij na de hoofding is ingevuld
+Hoofding: EEUW; VAN; TOT
 
-De chronologische volgorde
+Eerste rij die ingevuld is:
+1ste eeuw; 1 januari 1 ; 31 december 100 
+
+De eerste kolom staat al ingevuld met de eeuw, de andere kolommen worden door de leerlingen ingevuld:
+2de eeuw; 1 januari 101; 31 december 200
+13de eeuw; 1 januari 1201; 31 december 1300
+21ste eeuw; 1 januari 2001; 31 december 2100
+
+De geschiedenis begon natuurlijk niet met de geboorte van Christus, maar lang voordien. Jaren, eeuwen en millennia vóór het jaar 1 worden aangeduid met v.C.Noteer hieronder telkens de begin- en einddatum van de opgegeven eeuwen.Plaats ze met de gegeven kleur op de tijdbalk onderaan.
+
+Zelfde tabel als hierboven. 
+
+Eerste rij die ingevuld is: 
+1ste eeuw v.C.; 1 januari 100 v.C.; 31 december 1 v.C.
+De eerste kolom staat al ingevuld met de eeuw, de andere kolommen worden door de leerlingen ingevuld:
+2de eeuw v.C.; 1 januari 200 v.C.; 31 december 101 v.C
+12de eeuw v.C.; 1 januari 1200; v.C.31 december 1101 v.C.
+18de eeuw v.C.; 1 januari 1800 v.C. ;31 december 1701 v.C.
