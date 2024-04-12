@@ -199,3 +199,6 @@ Geschiedenis is veel meer dan verhalen over het verleden vertellen. Om tot zinvo
 – bronnen verzamelen waarin we op zoek gaan naar antwoorden op historische vragen;
 – de betrouwbaarheid van de informatie uit de bronnen inschatten.
 In de volgende jaren leer je in de rubriek werken aan geschiedenis hoe je dat concreet moet aanpakken.
+
+### Oefentoets(vragen)
+Ik heb geen informatie om een toets aan te bieden hier. Het is niet per se nodig om deze leerstof te toetsen aangezien het een inleiding is. De leerkracht kan natuurlijk beslissen dat dit wel moet, maar dan laat je de leerlingen maar weten dat ze dit moeten vragen aan hun leerkracht bij deze les. Je kunt wel overlopen wat ze in deze les behandeld hebben en dat de leerkracht dat zou kunnen vragen.
