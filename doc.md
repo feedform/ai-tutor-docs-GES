@@ -30,11 +30,20 @@ Ik kan ...
 7) een historische vraag stellen.
 8) vragen stellen om de betrouwbaarheid van informatie uit bronnen in te schatten.
 
-###De Theorie
+### De Theorie
 Geschiedenis ontstaat pas door het bestuderen van de sporen uit het verleden. Je kunt dat visueel zien: verleden-SPOREN=BRONNEN-geschiedenis.
 Als we de sporen die het verleden heeft nagelaten onderzoeken, kunnen we ons een beeld vormen van het verleden. Dit noemen we geschiedenis. De sporen die we onderzoeken zijn bronnen.
 
-###Dit zijn de oefeningen uit het werkboek die de leerlingen in de klas gemaakt hebben met de oplossingen:
+Bronnen geven van zichzelf geen eenduidig beeld over het verleden. Een historisch onder, zoek start met het stellen van historische vragen waarop in de bronnen een antwoord wordt
+gezocht. Hoe dit in zijn werk gaat, wordt hier geïllustreerd aan de hand van één voorbeeld: Hoe waren de materiële omstandigheden in de scholen in Vlaanderen in de jaren 19607
+Wijs de leerlingen expliciet op de drie elementen in de vraag:
+- een thematische afbakening van het onderwerp:we kunnen niet alles ineens onderzoeken (later zullen de leerlingen nog leren om/het onderzoeksthema te situeren in de maatschappelijke domeinen)
+- een chronologische afbakening van het onderwerp (de jaren 196o)
+- een ruimtelijke afbakening van het onderwerp (Vlaanderen).
+Het is belangrijk dat leerlingen bronnen leren bekijken in functie van een historische vraag.
+
+
+### Dit zijn de oefeningen uit het werkboek die de leerlingen in de klas gemaakt hebben met de oplossingen:
 #### pagina 8-9
 De les begint met een inleiding:
 Hoe verliepen jouw eerste dagen op een secundaire school? Je bent hier niet alleen: in Vlaanderen lopen vandaag meer dan 400 000 leerlingen en 50 000 leerkrachten rond in de secundaire scholen. En elk heeft zijn eigen ervaringen, zijn eigen verhaal. 
@@ -129,10 +138,64 @@ Een tiental dagen later kwam de directeur me meedelen dat er tegen het kamp uite
 Achtergrondinformatie over bronnen D8 en D9: Beide getuigenissen zijn opgetekend in 2000, meer dan 30 jaar na de gebeurtenissen. Interessant om te wijzen op het verschillende karakter van de bronnen: in D8 spreekt een strenge directeur, in D9 een geëngageerde leerkracht.
 
 D10: Priester en leerkracht Juul Craenen met zijn klas op de Kalmthoutse Heide (foto uit het archief van het college, 1963).
-
 D11: Richtlijnen van de inspectie, 1961 (archief van het college).
 Tekst: 11. Meermaals valt het de inspecteurs op dat de leerrkachten de leerlingen niet met hun naam kunnen noemen. Het is nochtans gewenst dat zij redelijke pogingen doen om de leerlingen bij name te kennen. Misschien op de lessenaar een lijst leggen met de namen van de leerlingen in de orde waarin zij in de klas zitten?
 Achtergrondinformatie: Het bij naam noemen van leerlingen was in die tijd blijkbaar niet evident. Interessant is de opmerking in rode balpen: iemand op het college vroeg zich in 1961 af of leerkrachten de leerlingen bij de familienaam of de voornaam moesten aanspreken.
 
 D12: Interview met Hendrik (Rik) Van Braband, leerling in het college van 1965 tot 1972 ( foto, 1965). Dit is een beeldfragment.
 Achtergrondinformatie: Het interview is afgenomen in het leslokaal van het college waar Rik Van Braband vanaf 1965 schoolliep. Ze zitten in een schoolbank uit die tijd. (zie ook D4-5)
+
+#### pagina 12-13
+#### Historische vraag 2: Hoe komen we met informatie uit bronnen tot geschiedenis?
+
+##### Opdracht 3: Stel gerichte vragen o mmeer informatie uit de bronnen te halen.
+Het is onmogelijk om het hele verleden te kennen. Een historisch onderzoek begint bij historische vragen waarop we een antwoord willen vinden in de bronnen.
+Een voorbeeld van zo’n historische vraag is: Hoe waren de materiële omstandigheden in de scholen in Vlaanderen in de jaren 1960?
+In bronnen [D2, 4, 5, 11] vinden we informatie om op die vraag te antwoorden. Maar deze informatie is lang niet genoeg. Om een goed geargumenteerd antwoord te geven op deze historische vraag, moeten we nog veel meer bronnen verzamelen en onderzoeken. Niet enkel over de school in Mol, maar over scholen in heel Vlaanderen.
+– Stel, in overleg met de hele klas, nog enkele andere historische vragen in verband met het onderwijs in Vlaanderen in de jaren 1960.
+– Geef telkens aan in welke bronnen [D 2-12] je daarvoor informatie vindt.
+– Geef ook aan welke extra bronnen je nodig hebt om de historische vraag te beantwoorden.
+
+Tabel:
+Kolomkop 1: Historische vraag; Kolomkop 2: Bruikbare bronnen (D2-12); Kolomkop 3: Extra bronnen
+Hoe waren de materiële omstandigheden in de scholen in Vlaanderen in de jaren 1960?; D2, 4, 5, 12; bronnen uit andere scholen in Vlaanderen, interviews met oud-leerlingen ...
+
+Nog twee open rijen die mogelijk door de leerkracht zelf ingevuld werden.
+
+##### Opdracht 4: Beoordeel hoe betrouwbaar informatie uit bronnen is voor een onderzoek.
+Opdracht 4a: We hebben nu informatie verzameld over een school in de jaren 1960. Maar hoe betrouwbaar is die informatie uit de bronnen? Dat testen we even uit aan de hand van enkele voorbeelden.
+
+Tabel:
+Kolomkop 1: Historische vraag; Kolomkop 2: Bruikbare bronnen; Kolomkop 3: Betrouwbaarheid van de bron voor het onderzoek
+Hoe waren de scholen in Vlaanderen in de jaren 1960 op materieel vlak uitgerust?; D2; Op het eerste gezicht lijken de gebouwen die in de jaren 1960 al bestonden en vandaag nog overeind staan een betrouwbaar beeld te geven van hoe de school er toen uitzag. Maar zijn we daar wel zo zeker van? Misschien volgde een deel van de leerlingen de lessen in bouwvallige lokalen die daarna afgebroken zijn. We hebben dus opnieuw meer bronnen nodig.
+""; D4; Waren alle klassen op dezelfde manier ingericht?
+""; D5; Waarschijnlijk is alleen het beste en stevigste materiaal bewaard.
+
+Hoe gingen de leerkrachten en leerlingen met elkaar om in de jaren 1960?; D8; eigen antwoord leerlingen
+""; D8 ; eigen antwoord leerlingen
+""; D9 ; eigen antwoord leerlingen
+""; D10 ; eigen antwoord leerlingen
+""; D11 ; eigen antwoord leerlingen
+""; D12 ; eigen antwoord leerlingen
+
+Opdracht 4b: Geven bronnen weer wat er echt gebeurde of eerder wat mensen graag wilden zien gebeuren?  [D 8 -11] bevatten regels die de directie of de verantwoordelijken van het Katholiek Onderwijs wilden opleggen.
+– Geef twee voorbeelden van zulke regels.
+– Werden die regels opgevolgd? Licht toe hoe we dat kunnen nagaan.
+
+Tabel:
+Bron; Opgelegde regel; Hoe nagaan of de regel werd opgevolgd?
+D""; antwoord leerling; antwoord leerling
+D""; antwoord leerling; antwoord leerling
+
+Leerlingen geven hier zelf hedendaagse voorbeelden van regels die in realiteit niet of nauwelijks worden nageleefd. In zone 30 mag je niet sneller rijden dan 30km/u, maar helaas houdt bijna niemand zich daaraan.
+Ook de regels uit het schoolreglement worden vermoedelijk niet allemaal even goed opgevolgd. Dat was in het verleden niet anders.
+
+Opdracht 4c: Kies zelf nog drie bronnen en stel daarbij enkele vragen die helpen om de betrouwbaarheid van de informatie uit de bron in te schatten.
+
+Theoretisch kader/ Lestekst: Belangrijk: leerlingen moeten die niet instuderen
+Werken aan geschiedenis:
+Geschiedenis is veel meer dan verhalen over het verleden vertellen. Om tot zinvolle geschiedenis te komen, moeten we historisch onderzoek doen, werken aan geschiedenis dus. Hiervoor moeten we:
+– historische vragen stellen;
+– bronnen verzamelen waarin we op zoek gaan naar antwoorden op historische vragen;
+– de betrouwbaarheid van de informatie uit de bronnen inschatten.
+In de volgende jaren leer je in de rubriek werken aan geschiedenis hoe je dat concreet moet aanpakken.
