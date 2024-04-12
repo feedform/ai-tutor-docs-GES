@@ -313,3 +313,122 @@ Antwoord:
 – het oude Nabije Oosten
 
 Opdracht 1d: Heb je het werken met de tijd nog niet helemaal onder de knie, maak dan de oefeningen op de pagina’s Wat moet je kennen en kunnen?.
+
+#### pagina 16-17
+##### Opdracht 2: Verken andere jaartellingen dan de christelijke.
+D2:
+Tekst met als titel "Anders rekenen met tijd"
+Ilana, Zahra en Florian zijn exacte leeftijdgenoten: ze zijn alle drie geboren op precies dezelfde dag. Op basis van  hun  geboortedatum  had je  dat  misschien  niet  verwacht. Dat  komt  omdat  de  geboortedatum  van  de meisjes niet genoteerd is volgens de christelijke jaartelling, maar volgens de traditionele jaartelling en kalender van hun cultuur.
+Afbeelding van Florian, 17 april 2008 geboren
+lana  is  een  joods  meisje.  De  joodse  jaartellingbegint te tellen vanaf de dag waarop Jahweh (God) volgens de joden de wereld schiep. Joodse geleerden hebben  duizenden  jaren  geleden  al  die  datum  berekend.  Ze  baseerden  zich  daarvoor  op  de  Bijbel. Veel later ontstond de christelijke jaartelling. Toen bleek het joodse jaar 1 overeen te komen met 3760 v.C.
+Zahra  is  moslima.  De  islamitische  jaartelling  begint te tellen vanaf de dag dat de profeet Mohammed met enkele volgelingen uit zijn geboorteplaats Mekka vertrok. Ze waren daar niet langer welkom. In Medina vormden ze de eerste moslimgemeenschap. Het jaar 1 van de islamitische kalender komt overeen met het jaar 622 van de christelijke jaartelling.
+Niet alleen de jaartallen verschillen, ook de maanden en  de  dagen.  De  joodse  kalender  werkt  immers  met  maanmaanden  van  29  of  30  dagen.  Een  jaar  telt  er  354  dagen.  Daarom  wordt  geregeld  een  schrikkel­maand ingelast. Zo blijven de kalenderjaren in overeen­stemming  met  de  zonnejaren.  Ook  de  islamitische  kalender werkt met maanmaanden, maar kent geen schrikkelmaanden. Het islamitische jaar is daardoor 11 dagen korter dan het christelijke. Daarom begint Ramadan,  de  vastenmaand  voor  moslims,  elk  jaar  11 dagen vroeger.
+Afbeelding van Ilana, 12 Nissan 5768 geboren
+Afbeelding van Zahra, 29 Rabi - Al-Awwal 1428 geboren
+
+Afbeelding van de christelijke, de joodse en de islamitische jaartelling in de vorm van een tijdlijn
+De tijdlijn gaat van 4000 v.C. tot het jaar 2000
+de joodse jaartelling begint in 3760 v.C.
+de christelijke jaartelling in -1 / 1 (het jaar 0 bestaat niet)
+de islamitische jaartelling begint in het jaar 622
+
+Extra achtergrondinformatie over de joodse, christelijke en islamitische jaartelling
+Belangrijk is dat dit niet in het boek staat, maar het is wel de informatie waarop jij je moet baseren als leerlingen zouden doorvragen:
+Joodse, christelijke en islamitische jaartelling
+Vóór de christelijke jaartelling in voege kwam, werden er in de antieke wereld veel verschillende systemen van jaartelling gehanteerd. De Grieken rekenden in olympiaden of in archontenjaren, de Romeinen rekenden vanaf de stichting van de stad (Ab Urbe Condita, later omgezet tot 753 v.C.), later in consul- en keizersjaren. De christelijke jaartelling werd in 526 door Dionysius Exiguus uitgewerkt. Hij nam de geboorte van Christus als ijkdatum. Later is gebleken dat men in zijn tijd de schaarse chronologische gegevens uit de Bijbel verkeerd had geïnterpreteerd, en Christus' geboorte op de conventionele christelijke kalender tussen 4 en 7 v.C. moet worden gesitueerd. De christelijke jaartelling van Dionysius raakte slechts langzaam ingeburgerd. De hele middeleeuwen door werden parallel hiermee andere jaartelsystemen gebruikt.
+Buiten de christelijke wereld hielden de joden vast aan hun telling vanaf de schepping van de wereld, volgens de christelijke tijdrekening in 3760 v.C. Een datum voor de schepping staat niet in de Bijbel (Thord), maar is door joodse geleerden berekend op basis van de chronologische gegevens die in het Bijbelverhaal zijn opgenomen. In Genesis 5.3 ev. staat te lezen. Toen Adam 130 jaar was, verwekte hij een zoon... Hij noemde hem Set. Na de geboorte van Set duurde Adams leven nog 800 jaar. Ook over de kinderen, de kleinkinderen en het latere nageslacht van Adam en Eva worden dergelijke gegevens opgesomd. Dit leverde de schriftgeleerden materiaal om aan het rekenen te gaan. Christelijke geleerden berekenden de datum van de schepping dan weer anders. Bisschop Ussher kwam in de 17de eeuw uit op 23 oktober 4004 V.C.
+Moslims ontwikkelden een tijdrekening met de hidjra, de vlucht van Mohammed naar Medina, als ijkpunt. Volgens de christelijke jaartelling gebeurde dit in 622. Naast deze drie jaartellingen zijn er ook vandaag nog andere systemen in zwang. De Chinese jaartelling start bij 2697 v.C Ze wordt vandaag echter enkel in ceremoniële context gebruikt. 
+De Boeddhistische jaartelling rekent vanaf 543 v.C. het overlijdensjaar van Boeddha. Meer recente pogingen om nieuwe jaartellingen en kalen- ders in te voeren (bv. de revolutionaire kalender in Frankrijk vanaf 1792 en de fascistische kalender in Italie vanaf 1922) kenden geen blijvend succes.
+Omdat de christelijke jaartelling gebaseerd is op het zonnejaar en de joodse en islamitische met maanjaren werken, lopen de jaartellingen, ook afgezien van de verschillende ijkpunten, niet parallel. Vergelijken is ingewikkeld.
+
+
+#### Historische vraag 2: Hoe situeren we geschiedenis in de maatschappelijke domeinen?
+
+Net als vandaag leefden mensen in het verleden niet alleen. Samen waren ze op heel wat domeinen actief. Om het menselijk gedrag te bespreken, delen we alle activiteiten in vier maatschappelijke domeinenin [D3]. Wat mensen doen in elk van de maatschappelijke domeinen staat niet los van elkaar. De domeinen beïnvloeden elkaar; er vindt voortdurend een wisselwerking plaats.
+
+Opdracht 2a Licht het schema [D3] toe met voorbeelden uit je leven en je omgeving.
+Opdracht 2b Licht het schema [D3] toe met voorbeelden uit de geschiedenis van de school in de jaren 1960 [hoofdstuk 1].
+Opdracht 2c Heb je het werken met de maatschappelijke domeinen nog niet helemaal onder de knie, maak dan de oefeningen op de pagina’s Kennen en kunnen.
+
+D3 is een infographic met als titel "De vier maatschappelijke domeinen". Het zijn vier gekleurde bollen met daartussen pijlen die van de ene bol naar de andere wijzen.
+Bovenaan staat de blauwe bol. Die heeft als titel Economisch en de bulletpoints eronder zijn:
+- voedsel, kleding, woning
+- werk
+- handel
+- transport
+Drie blauwe pijlen vertrekken vanuit deze bol naar elke andere bol.
+
+Rechts staat een paars/roze bol met als titel Cultureel en de bulletpoints eronder zijn:
+- communicatie
+- kunst
+- geloof, godsdienst, levensbeschouwing
+- wetenschap
+Drie paars/roze pijlen vertrekken vanuit deze bol naar elke andere bol.
+
+Onderaan staat een groene bol met als titel Politiek en de bulletpoints eronder zijn:
+- afspraken
+- organisatie
+- regels, wetten
+- rechten, plichten
+Ook uit deze bol vertrekken pijlen naar alle andere bollen.
+
+Links staat er een oranje bol met als titel Sociaal en de bulletpoints:
+- individu, groep
+- verhouding tussen mensen
+- rollenpatronen
+- opvoeding
+Ook uit deze bol vertrekken pijlen naar alle andere bollen.
+
+Alle pijlen in die infographic verwijzen naar de causale verbanden tussen fenomenen uit verschillende domeinen. 
+Het werken met de vier maatschappelijke domeinen is een belangrijk aandachtspunt voor de leerlingen. De kleuren komen verder in het boek ook telkens terug wanneer gewerkt wordt rond de maatschappelijke domeinen.
+
+D4 zijn beschrijvingen van de domeinen:
+Het economische domein: Om te overleven hebben mensen voedsel, kledingen een woning nodig. Ze zorgen daar zelf voor of ze werken voor een inkomen en kopen wat ze nodig hebben.  Door  handel  en  transport  kunnen  de  mensen dan over dat alles  beschikken.
+
+Het culturele domein: Mensen  praten  en  delen  hun  opvattingen  met  elkaar (communicatie), en brengen hun gevoe­lens en ideeën tot uiting (kunst). Ze gaan op zoek naar  de  zin  van  het  leven  (geloof, godsdienst, levensbeschouwing)  en  verzamelen  kennis  (wetenschap).
+
+Het politieke domein: Om in groep samen te leven hebben we afsprakenen organisatie nodig. Regels en wetten bepalen rechten  en  plichten.  Leiders  en  machthebbers  staan in voor de naleving daarvan en bewaren zo de orde in de samenleving.
+
+Het sociale domein: Mensen leven niet alleen als individu. Ze vormen allerlei groepen  (gezin,  familie,  vriendenkring,  klasse  ...).  In  de  hele  samenleving  en  in  alle  groepen ontwikkelen ze sociale verhoudingen. Vaak  ontstaat  daarbij  ongelijkheid  (arm/rijk,  massa/elite   ...).   Hoe   mensen   zich   gedragen   in  een  groep  wordt  onder  meer  bepaald  door  rollenpatronen   (man/vrouw,   hetero/homo,   jong/oud ...). Opvoeding speelt daarin een heel belangrijke rol.
+
+#### pagina 18 en 19 
+Op deze pagina's krijgen de leerlingen opdrachten op wat ze in het hoofdstuk leerden.
+##### Opdracht 1: Rangschik gegevens in chronologische volgorde.
+Opdracht 1a: Hieronder staan zeven zinnen. Helaas zijn ze door elkaar gehaald. Nummer ze van 1 tot 7 in chronologische volgorde (volgens de tijd).
+Antwoord: bij elke leerling is dat antwoord anders. 
+– Vergelijk je oplossing met die van je klasgenoten. Misschien hebben jullie een heel ander verhaal. Zo merk je hoe belangrijk het is om in geschiedenis gebeurtenissen chronologisch te ordenen.
+
+Opdracht 1b: Nummer de afbeeldingen in chronologische volgorde van 1 tot 6.
+De leerlingen zien 6 soorten telefoons. De chronologische volgorde die zij moeten invullen is: 2, 4, 5, 6, 3, 1
+
+Opdracht 1c: Lees de info over de geschreven media doorheen de tijd.
+Er zijn 7 afbeeldingen te zien.
+Ook zijn er 7 beschrijvingen te zien. De leerlingen moeten hier telkens het passende tijdvak erbij schrijven als laatste opdracht.
+Beschrijving A Monniken schreven met veel geduld handschriften op perkament (bewerkte dierenhuid).Tijdvak: de middeleeuwen (500 – 1450)
+Beschrijving B Romeinse keizers pakten graag uit met hun prestaties. Daarom lieten ze die voor het publiek in steen beitelen. We noemen dit inscripties. Tijdvak: de klassieke oudheid  (800 v.C. – 500 n.C.)
+Beschrijving C In Mesopotamië gebruikten schrijvers tabletten van natte klei om te noteren wat bewaard moest blijven. Nadien droogden ze de tabletten in de zon. Zo bleven ze lang bewaard. Tijdvak: het oude Nabije Oosten  (3500 v.C. – 800 v.C.)
+Beschrijving D De boekdrukkunst maakte boeken minder duur dan toen ze met de hand werden geschreven. Boeken kenden daardoor een grotere verspreiding. Tijdvak: de vroegmoderne tijd (1450 – 1750)
+Beschrijving E Vele mensen vragen zich af of gedrukte kranten nog lang zullen bestaan, nu de kranten gemakkelijk online te lezen zijn.
+Tijdvak: de hedendaagse tijd (1945 – nu)
+Beschrijving F Goedkope druktechnieken maakten het mogelijk om kranten te drukken op grote oplage. Die bereikten een ruim publiek.
+Tijdvak: de moderne tijd (1750 – 1945)
+Beschrijving G Iemand kraste streepjes op een mammoetbeen. Het is niet duidelijk of de streepjes enkel versiering waren of als geheugensteuntje dienden.
+Tijdvak: de prehistorie  (3 miljoen jaar geleden - 3500 v.C.)
+
+– Noteer de passende letters bij de afbeeldingen. Dit zijn de letters die verwijzen naar de beschrijvingen van hierboven.
+De oplossing: 
+De passende letters zijn:
+Afbeelding 1: F
+Afbeelding 2: A
+Afbeelding 3: G
+Afbeelding 4: B
+Afbeelding 5: C
+Afbeelding 6: E
+Afbeelding 7: D
+
+– Rangschik de afbeeldingen in chronologische volgorde. Noteer de nummers in de juiste volgorde in dit raster.
+De oplossing: 3, 5, 4, 2, 7, 1, 6
+
+
+
+De chronologische volgorde
