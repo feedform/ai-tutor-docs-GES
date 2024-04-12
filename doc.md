@@ -1,4 +1,4 @@
-# Memoria 1 
+# Memoria 1
 Naam van het werkboek: Memoria 1
 Vak: geschiedenis
 Niveau: 1e middelbaar
@@ -202,3 +202,114 @@ In de volgende jaren leer je in de rubriek werken aan geschiedenis hoe je dat co
 
 ### Oefentoets(vragen)
 Ik heb geen informatie om een toets aan te bieden hier. Het is niet per se nodig om deze leerstof te toetsen aangezien het een inleiding is. De leerkracht kan natuurlijk beslissen dat dit wel moet, maar dan laat je de leerlingen maar weten dat ze dit moeten vragen aan hun leerkracht bij deze les. Je kunt wel overlopen wat ze in deze les behandeld hebben en dat de leerkracht dat zou kunnen vragen.
+
+## Hoofdstuk 2
+Hoofdstuktitel: Geschiedenis in tijd, ruimte en samenleving
+Deze historische vragen worden in dit hoofdstuk behandeld:
+Historische vraag 1: Hoe situeren we geschiedenis in de tijd?
+Historische vraag 2: Hoe situeren we geschiedenis in de maatschappelijke domeinen?
+
+### Wat moeten de leerlingen kennen en kunnen?
+Ik kan ...
+- de volgende begrippen gebruiken en uitleggen: het referentiekader – tijd – ruimte – maatschappelijke domeinen – periode – tijdvak – de prehistorie – het oude Nabije Oosten – de klassieke oudheid – de middeleeuwen –  de vroegmoderne tijd – de moderne tijd – de hedendaagse tijd –   jaar – eeuw – millennium – chronologische volgorde – christelijke jaartelling – joodse jaartelling – islamitische jaartelling –  maatschappelijke domeinen – economisch – cultureel – politiek – sociaal –  wisselwerking tussen de maatschappelijke domeinen
+- historische gegevens chronologisch ordenen.
+- data situeren in de passende eeuw en het passende millennium.
+- historische gegevens correct situeren op een tijdbalk.
+- de christelijke, de joodse en de islamitische tijdrekening herkennen en benoemen.
+- de periodes of tijdvakken van de geschiedenis benoemen, de begin- en einddatum ervan opgeven en ze situeren op een tijdbalk.
+- historische gegevens in het juiste tijdvak situeren.
+- menselijke activiteiten indelen in het passende maatschappelijke domein.
+- met voorbeelden uitleggen hoe de maatschappelijke domeinen elkaar beïnvloeden.
+
+### De Theorie
+
+
+
+### Dit zijn de oefeningen uit het werkboek die de leerlingen in de klas gemaakt hebben met de oplossingen:
+#### pagina 14-15
+De les begint met een inleiding: 
+Alle onderwerpen die we hierna bestuderen, zullen we telkens situeren in een referentiekader. We vragen ons steeds af wanneer iets is gebeurd (tijd), waar het is gebeurd (ruimte) en met welke aspecten van de samenleving het te maken heeft (maatschappelijke domeinen). Voor het werken met tijd en maatschappelijke domeinen leer je in dit hoofdstuk alvast enkele kneepjes van het vak.
+
+#### Historische vraag 1: Hoe situeren we geschiedenis in de tijd?
+##### Opdracht 1: Deel historische gegevens bij tijdvakken in.
+
+Om vat te krijgen op de lange geschiedenis hebben historici het verleden ingedeeld in zeven periodes of tijdvakken [D1].
+D1: een grote tijdlijn over de beide pagina's. De vroegste datum is 13 000 v.C. - de laatste datum is ca. 1945, maar nadien gaat de tijdlijn nog een beetje verder. 
+Op de tijdlijn moeten de leerlingen gegevens invullen die ze horen uit een fictieve getuigenis. Ze krijgen een fragment te horen en vullen daarna in.
+Van elke getuigenis staat er een afbeelding bij op de tijdlijn. Die afbeeldingen zijn ook genummer van 1 - 6. En op een extra vakje helemaal op het einde van de tijdlijn staat er ook met daarin de tekst Kleef hier een foto van jezelf.
+
+Er staat ook een legende bij:
+de prehistorie - 3 miljoen jaar geleden – 3500 v.C.
+het oude Nabije Oosten - 3500 v.C. – 800 v.C.
+de klassieke oudheid - 800 v.C. – 500 n.C.
+de middeleeuwen - 500 – 1450
+de vroegmoderne tijd - 1450 – 1750
+de moderne tijd - 1750 – 1945
+de hedendaagse tijd - 1945 – nu
+
+Opdracht 1a Beluister de fictieve getuigenissen [D1] en vul de gegevens aan.
+
+Fictieve getuigenis 1: Appollonia
+Transcriptie luisterfragment: 
+ApolloniaIk ben Apollonia. Ik ben heel trots. Vandaag mag ik voor  het  eerst  een  offer  brengen  voor  Persephone.  Dat is de godin van de vruchtbaarheid. Ik breng een duif en een granaatappel naar haar tempel. Mijn papa hoopt dat de godin ons dan goed gezind is en ervoor zal zorgen dat onze akkers de volgende lente een heel rijke oogst zullen opleveren.
+
+De leerlingen schrijven de informatie van Appollonia onder afbeelding 3
+Naam: Antwoord: Apollonia
+Tijdvak: Antwoord: klassieke oudheid
+Datering: Antwoord: ca. 800 v.C. - ca. 500 n.C.
+
+Fictieve getuigenis 2: Jehan
+Transcriptie luisterfragment: 
+Mijn naam is Jehan. Vandaag was het mijn eerste dag op de bouwwerf van de kathedraal. Ik mocht er aan de slag als leerling-metselaar. De bouwmeester liet me de hele dag in het grote rad lopen om de katrol aan  te  drijven.  Daarmee  worden  de  steenblokken  naar boven gehesen. Zwaar werk! Toch ben ik beter af dan de sjouwers die de zware stenen aanbrengen en de specie op de ladders naar boven dragen. Maar het harde werken loont. De bisschop heeft ons verzekerd dat wie aan de kathedraal meebouwt, een plaatsje in de hemel verdient.
+
+De leerlingen schrijven de informatie van Jehan onder afbeelding 4
+Naam: Antwoord: Jehan
+Tijdvak: Antwoord: middeleeuwen
+Datering: Antwoord: ca. 500 - ca. 1450
+
+Fictieve getuigenis 3: De jongen van Sungir
+Transcriptie luisterfragment: 
+De jongen van Sungir
+Ik ben de jongen van Sungir. Dat is niet mijn naam, maar de naam die archeologen mij gegeven hebben toen ze me in Rusland opgegraven hebben. Ze waren wel verrast toen ze mij vonden in een graf, hoofd aan hoofd met mijn zusje van acht. Aan mijn rijkelijke kle-ren, mijn juwelen en mijn wapens zagen ze meteen dat  ik  geen  gewone  jongen  was.  Met  hun  verfijnde  dateringstechnieken zijn ze erachter gekomen dat wij hier meer dan 25000 jaar geleden leefden.
+
+De leerlingen schrijven de informatie van Sungir onder afbeelding 1
+Naam: Antwoord: Sungir
+Tijdvak: Antwoord: prehistorie
+Datering: Antwoord: ca. 3 miljoen jaar geleden - ca. 3500 v.C.
+
+Fictieve getuigenis 4: Katelijne
+Transcriptie luisterfragment: 
+Ik ben Katelijne. Vandaag is het mijn eerste werkdag als  dienster  in  het  huis  van  een  rijke  bankier.  Het  is  11  uur.  Ik  breng  hem  zijn  dagelijks  kopje  warme  chocolade.  Ik  wist  tot  vandaag  niet  eens  dat  zoiets  bestond.  Het  ruikt  wel  heel  bijzonder.  De  keuken-meid  die  het  goedje  opwarmde,  legde  me  zonet  uit  dat chocola helemaal van over de oceaan komt, van-uit de Spaanse kolonies. Ze zegt dat het heel bitter is. Daarom doet ze er een grote schep suiker bij. Die komt ook al helemaal van overzee. Geen wonder dat die  dingen  stukken  van  mensen  kosten  en  bij  ons  thuis niet binnen komen.
+
+De leerlingen schrijven de informatie van Katelijne onder afbeelding 5
+Naam: Antwoord: Katelijne
+Tijdvak: Antwoord: vroegmoderne tijd
+Datering: Antwoord: ca. 1450 - ca. 1750
+
+Fictieve getuigenis Fons: 
+Transcriptie luisterfragment: 
+Ik ben Fons en werk voor het eerst in de spinnerij. We zijn vanmorgen al om 6 uur begonnen. Het is hier een heksenketel, een lawaai van jewelste. De opzie-ner houdt ons voortdurend in de gaten. We mogen de spoelen met katoengaren geen moment uit het oog verliezen. Halfweg de ochtend legde hij wel even de machines stil. Toen kwam er een fotograaf om foto’s te maken voor de krant. Die moeten laten zien hoe goed alles hier georganiseerd is. Gisteren is hier een meisje van tien verongelukt. Ze draaide met haar arm in de machine. Er was veel rond te doen. De socialis-ten zeggen dat kinderarbeid moet worden verboden. Maar als mijn zussen en broers niet werken, komt er thuis niet genoeg eten op tafel.
+
+De leerlingen schrijven de informatie van Fons onder afbeelding 6
+Naam: Antwoord: Fons
+Tijdvak: Antwoord: moderne tijd
+Datering: Antwoord: ca. 1750 - ca. 1945
+
+Fictieve getuigenis Seti: 
+Transcriptie luisterfragment: 
+Ik ben Seti. Vandaag is het een spannende dag. Samen met mijn broer moet ik onze vijf koeien naar de tem-pel van Thebe drijven. Het is opletten geblazen, want als er onderweg een ontsnapt, zal de opzichter van de tempel niet mals zijn voor ons. Straks passeren we voor het telbureau waar de schrijvers van de farao het binnengebrachte vee tellen. Ze noteren alles nauw-keurig  op  een  papyrusrol.  Later  worden  de  koeien  geslacht en eindigen ze als vlees op de feestdis van de farao. Gelukkig krijgt de god Re ook een mooi stuk geofferd. Hij waakt over ons land.Transcripties527946_9446_Mem1 LWB_HL.indb   26526/07/19   15:19
+
+De leerlingen schrijven de informatie van Seti onder afbeelding 2
+Naam: Antwoord: Seti
+Tijdvak: Antwoord: oude Nabije Oosten
+Datering: Antwoord: ca. 3500 v.C. - ca. 800 v.C.
+
+
+Opdracht 1b In welk tijdvak situeer je de geschiedenis van de school in de jaren 1960 [hoofdstuk 1]? Antwoord: de hedendaagse tijd
+
+Opdracht 1c: Bekijk de inhoudstafel van Memoria 1. Welke tijdvakken zal je dit schooljaar bestuderen?
+Antwoord: 
+– de prehistorie
+– het oude Nabije Oosten
+
+Opdracht 1d: Heb je het werken met de tijd nog niet helemaal onder de knie, maak dan de oefeningen op de pagina’s Wat moet je kennen en kunnen?.
