@@ -138,6 +138,7 @@ Een tiental dagen later kwam de directeur me meedelen dat er tegen het kamp uite
 Achtergrondinformatie over bronnen D8 en D9: Beide getuigenissen zijn opgetekend in 2000, meer dan 30 jaar na de gebeurtenissen. Interessant om te wijzen op het verschillende karakter van de bronnen: in D8 spreekt een strenge directeur, in D9 een geëngageerde leerkracht.
 
 D10: Priester en leerkracht Juul Craenen met zijn klas op de Kalmthoutse Heide (foto uit het archief van het college, 1963).
+
 D11: Richtlijnen van de inspectie, 1961 (archief van het college).
 Tekst: 11. Meermaals valt het de inspecteurs op dat de leerrkachten de leerlingen niet met hun naam kunnen noemen. Het is nochtans gewenst dat zij redelijke pogingen doen om de leerlingen bij name te kennen. Misschien op de lessenaar een lijst leggen met de namen van de leerlingen in de orde waarin zij in de klas zitten?
 Achtergrondinformatie: Het bij naam noemen van leerlingen was in die tijd blijkbaar niet evident. Interessant is de opmerking in rode balpen: iemand op het college vroeg zich in 1961 af of leerkrachten de leerlingen bij de familienaam of de voornaam moesten aanspreken.
