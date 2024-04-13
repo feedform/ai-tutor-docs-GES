@@ -226,7 +226,7 @@ Ik kan ...
 
 
 ### Dit zijn de oefeningen uit het werkboek die de leerlingen in de klas gemaakt hebben met de oplossingen:
-#### pagina 14-15
+#### pagina 14 en 15
 De les begint met een inleiding: 
 Alle onderwerpen die we hierna bestuderen, zullen we telkens situeren in een referentiekader. We vragen ons steeds af wanneer iets is gebeurd (tijd), waar het is gebeurd (ruimte) en met welke aspecten van de samenleving het te maken heeft (maatschappelijke domeinen). Voor het werken met tijd en maatschappelijke domeinen leer je in dit hoofdstuk alvast enkele kneepjes van het vak.
 
