@@ -234,8 +234,10 @@ Alle onderwerpen die we hierna bestuderen, zullen we telkens situeren in een ref
 ##### Opdracht 1: Deel historische gegevens bij tijdvakken in.
 
 Om vat te krijgen op de lange geschiedenis hebben historici het verleden ingedeeld in zeven periodes of tijdvakken [D1].
-D1: een grote tijdlijn over de beide pagina's. De vroegste datum is 13 000 v.C. - de laatste datum is ca. 1945, maar nadien gaat de tijdlijn nog een beetje verder. 
+D1 staat op pagina 14 en 15 en is een grote tijdlijn over de beide pagina's. De vroegste datum is 13 000 v.C. - de laatste datum is ca. 1945, maar nadien gaat de tijdlijn nog een beetje verder. 
+
 Op de tijdlijn moeten de leerlingen gegevens invullen die ze horen uit een fictieve getuigenis. Ze krijgen een fragment te horen en vullen daarna in.
+
 Van elke getuigenis staat er een afbeelding bij op de tijdlijn. Die afbeeldingen zijn ook genummer van 1 - 6. En op een extra vakje helemaal op het einde van de tijdlijn staat er ook met daarin de tekst Kleef hier een foto van jezelf.
 
 Er staat ook een legende bij:
@@ -247,6 +249,7 @@ de vroegmoderne tijd - 1450 – 1750
 de moderne tijd - 1750 – 1945
 de hedendaagse tijd - 1945 – nu
 
+De opdrachten die ze moeten uitvoeren bij deze tijdlijn zijn de volgende:
 Opdracht 1a Beluister de fictieve getuigenissen [D1] en vul de gegevens aan.
 
 Fictieve getuigenis 1: Appollonia
