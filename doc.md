@@ -44,7 +44,7 @@ Het is belangrijk dat leerlingen bronnen leren bekijken in functie van een histo
 
 
 ### Dit zijn de oefeningen uit het werkboek die de leerlingen in de klas gemaakt hebben met de oplossingen:
-#### pagina 8-9
+#### pagina 8
 De les begint met een inleiding:
 Hoe verliepen jouw eerste dagen op een secundaire school? Je bent hier niet alleen: in Vlaanderen lopen vandaag meer dan 400 000 leerlingen en 50 000 leerkrachten rond in de secundaire scholen. En elk heeft zijn eigen ervaringen, zijn eigen verhaal. 
 Dat is al generaties lang zo. Vraag aan je grootouders hoe het was op de schoolbanken en je krijgt ongetwijfeld leuke verhalen te horen. Ben jij ook zo nieuwsgierig naar het leven van toen? Zou je, net als Suske en Wiske, in een teletijdmachine willen stappen 
@@ -67,6 +67,8 @@ Daarnaast staat de tekst in hun werkboek:
 Als voorbeeld kozen we het Sint-Jan Berchmanscollege in Mol. Het lange verleden van die school heeft veel sporen nagelaten. 
 Een aantal daarvan vind je in de documenten in dit hoofdstuk [D 2-12]. De sporen maken het mogelijk om sommige aspecten van het verleden van de school te leren kennen. 
 We noemen ze daarom bronnen voor de geschiedenis. Historici, wetenschappers die het verleden bestuderen, hebben bronnen nodig om zich een goed beeld te vormen van het verleden. Zonder bronnen is er geen geschiedenis mogelijk.
+
+#### pagina 9
 
 Opdracht 1a: Bekijk bronnen D2 t.e.m. D12). Je merkt dat er verschillende soorte bronnen zijn. Noteer in de tabel enkele voorbeelden van elke soort bron. Licht je keuze telkens mondeling toe. 
 
